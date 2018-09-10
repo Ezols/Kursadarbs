@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\eoz\source\repos\kursadarbs\kursadarbs\main.cpp(12): warning C4101: 'a': unreferenced local variable
+  Kursadarbs.vcxproj -> C:\Users\EOZ\source\repos\Kursadarbs\Debug\Kursadarbs.exe
